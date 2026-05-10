@@ -1,0 +1,61 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "appearance"
+    },
+    {
+      "id": 1,
+      "name": "birth_address"
+    },
+    {
+      "id": 2,
+      "name": "current_address"
+    },
+    {
+      "id": 3,
+      "name": "dob"
+    },
+    {
+      "id": 4,
+      "name": "expiry_date"
+    },
+    {
+      "id": 5,
+      "name": "height"
+    },
+    {
+      "id": 6,
+      "name": "id_number"
+    },
+    {
+      "id": 7,
+      "name": "issue_date"
+    },
+    {
+      "id": 8,
+      "name": "mrz"
+    },
+    {
+      "id": 9,
+      "name": "name_en"
+    },
+    {
+      "id": 10,
+      "name": "name_kh"
+    },
+    {
+      "id": 11,
+      "name": "photo"
+    },
+    {
+      "id": 12,
+      "name": "sex"
+    }
+  ],
+  "info": {
+    "year": 2026,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}

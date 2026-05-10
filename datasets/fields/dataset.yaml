@@ -1,0 +1,19 @@
+path: datasets/fields
+
+train: images/train
+val: images/val
+
+names:
+  0: photo
+  1: id_number
+  2: name_kh
+  3: name_en
+  4: dob
+  5: sex
+  6: height
+  7: birth_address
+  8: current_address
+  9: issue_date
+  10: expiry_date
+  11: appearance
+  12: mrz

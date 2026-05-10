@@ -1,0 +1,84 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+build/
+dist/
+
+# Virtual Environment
+venv/
+env/
+
+# Environment Variables
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Cache
+.cache/
+pytest_cache/
+
+# YOLO
+runs/
+
+# PaddleOCR
+.paddleocr/
+
+# Output Files
+output/
+inference_results/
+tmp/
+
+# Model Weights
+*.pt
+*.onnx
+*.pdparams
+*.pdmodel
+
+# Dataset Cache
+*.cache
+
+# Label Studio
+label_studio.sqlite3
+media/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Temporary Files
+*.tmp
+*.temp
+
+# PyCharm
+*.iml
+
+# VSCode
+.history/
+
+# Mac
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+
+# Test Outputs
+tests/output/
+
+# OCR Debug Images
+debug/

@@ -1,0 +1,13 @@
+appearance
+birth_address
+current_address
+dob
+expiry_date
+height
+id_number
+issue_date
+mrz
+name_en
+name_kh
+photo
+sex
